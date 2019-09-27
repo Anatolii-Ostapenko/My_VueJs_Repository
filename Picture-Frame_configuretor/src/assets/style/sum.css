@@ -1,0 +1,21 @@
+.sum {
+  border-top: 1px solid #e5e3e0;
+  height: 105px;
+  display: flex;
+  justify-content: flex-end;
+  align-items: flex-end;
+  margin-right: 22px;
+}
+.sum p {
+  font-size: 25px;
+  margin-bottom: 13px;
+}
+.sum p span {
+  color: #8dbc55;
+  font-weight: 600;
+  font-family: sans-serif;
+  margin-left: 15px;
+}
+.sum p .sum-val {
+  font-size: 63px;
+}
